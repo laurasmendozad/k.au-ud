@@ -1,3 +1,4 @@
 # K.AU-UD
-**Desarrolladora:** Laura Sofía Mendoza Díaz
+**Desarrolladora:** Laura Sofía Mendoza Díaz 
+
 **Figma:** 
